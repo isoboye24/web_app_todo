@@ -1,0 +1,8 @@
+Python and C#
+PHP
+CSS3
+HTML
+Bootstrap 5
+React.js
+Typescript
+JavaScript
